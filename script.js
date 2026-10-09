@@ -2,6 +2,10 @@ const totalSpace = document.createElement('div')
 totalSpace.className = "firstContainer"
 document.body.appendChild(totalSpace);
 
+const setColor = () => {
+    
+}
+
 for(let j = 0; j < 20; j++){
 const containerRow = document.createElement('div');
 containerRow.className = "row";

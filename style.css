@@ -1,0 +1,23 @@
+div {
+    
+}
+
+div.firstContainer {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: 500PX;
+}
+
+div.row {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+div.case {
+    display: flex;
+    border: 0.5px solid;
+    border-color: grey;
+    flex: 1;
+}

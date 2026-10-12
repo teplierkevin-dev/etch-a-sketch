@@ -7,8 +7,8 @@ body {
 div.firstContainer {
     display: flex;
     flex-direction: column;
-    width: 500px;
-    height: 500PX;
+    width: 700px;
+    height: 700PX;
 }
 
 div.row {
